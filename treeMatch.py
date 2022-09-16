@@ -253,4 +253,3 @@ if __name__ == "__main__":
     for f in os.listdir(folder):
         files.append(folder+'/'+f)
     newTree.run("target.xml", files)
-rm -f .git
