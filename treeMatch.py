@@ -249,7 +249,8 @@ class FastTreeMatch:
 if __name__ == "__main__":
     newTree = FastTreeMatch()
     files = []
-    folder = "candidate"
+    #folder = "candidate"
+    folder = "candidate/madelynnTests"
     for f in os.listdir(folder):
         files.append(folder+'/'+f)
     newTree.run("target.xml", files)
