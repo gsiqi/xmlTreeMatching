@@ -184,9 +184,9 @@ class FastTreeMatch:
     returns true if the list is not empty, the end is bigger than the start, and i = N;
     '''
     def find(self, q, tq):
-        if tq.is_leaf():
+        if tq.is_leaf() or q.is_leaf():
             return True
-        numOfChildren = len(tq.children)
+        numOfChildren = len(q.children)
         i = 0 #q_i(i = 0, 1, 2, ... n-1) are q's children
         stack_i = []
         partialSolution = False
