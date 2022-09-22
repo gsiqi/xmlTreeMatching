@@ -114,7 +114,9 @@ class FastTreeMatch:
 
     def insertNodeToTree(self, tree, data, parent):
         # insert the current data
-        name = data.tag.split("}", 1)[1]  # ignore anything in the {}
+        name = data.tag
+        if '}' in name:
+            name = data.tag.split("}", 1)[1] # ignore anything in the {}
         parentNode = Node(name, data._start_line_number, data._end_line_number, parent)
         tree.insert(parentNode, parent)
         childNode = Node()
@@ -137,6 +139,8 @@ class FastTreeMatch:
         parser = LineNumberingParser()
         root = ET.parse(fileName, parser=parser).getroot()
         tree = Tree()
+        if 'math' in root.tag and len(root)==1:
+            root = root[0]
         # data, start, end, parent, children
         tree = self.insertNodeToTree(tree, root, None)
         return tree
@@ -146,6 +150,7 @@ class FastTreeMatch:
         self.numFiles = len(dataset)
         try:
             self.targetTree = newTree.makeATree(targetFile)
+            self.targetTree.root.display()
         except:
             raise FileNotFoundError(errno.ENOENT, os.strerror(errno.ENOENT), targetFile)
         for f in dataset:
@@ -184,7 +189,7 @@ class FastTreeMatch:
     returns true if the list is not empty, the end is bigger than the start, and i = N;
     '''
     def find(self, q, tq):
-        if tq.is_leaf() or q.is_leaf():
+        if tq.is_leaf():
             return True
         numOfChildren = len(q.children)
         i = 0 #q_i(i = 0, 1, 2, ... n-1) are q's children
