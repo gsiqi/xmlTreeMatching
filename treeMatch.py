@@ -150,7 +150,7 @@ class FastTreeMatch:
         self.numFiles = len(dataset)
         try:
             self.targetTree = newTree.makeATree(targetFile)
-            self.targetTree.root.display()
+            # self.targetTree.root.display()
         except:
             raise FileNotFoundError(errno.ENOENT, os.strerror(errno.ENOENT), targetFile)
         for f in dataset:
