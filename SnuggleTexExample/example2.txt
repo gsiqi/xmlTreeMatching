@@ -1,2 +1,0 @@
-$$x(t) = c_1\begin{pmatrix} -2 \\ 1 \end{pmatrix}e^{-t} + c_2 \left( \begin{pmatrix} -2 \\ 1 \end{pmatrix}te^{-t} + \begin{pmatrix}
-4 \\ 0 \end{pmatrix}e^{-t} \right) $$

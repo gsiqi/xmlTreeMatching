@@ -1,4 +1,0 @@
-knowing that the Taylor series approximation 
-\[log(x+1) = x - \frac{x^2}{2} + \frac{x^3}{3} -  \frac{x^4}{4} + ...
-\tag{24} \]
-We can simplify the inside parenthesis of equation (21) to be
