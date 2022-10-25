@@ -252,10 +252,17 @@ class FastTreeMatch:
 
 # Run this as a main function
 if __name__ == "__main__":
+    # import os
+    #
+    # dir_path = os.path.dirname(os.path.realpath(__file__))
+    # print(dir_path)
+    # with open("target.xml", "r") as f:
+    #     l =  f.read()
+    #     print(l)
     newTree = FastTreeMatch()
     files = []
-    folder = "candidate"
-    #folder = "candidate/madelynnTests"
+    #folder = "candidate"
+    folder = "madelynnTests"  # madelynn you cant have folders inside folders
     for f in os.listdir(folder):
         files.append(folder + '/' + f)
     newTree.run("target.xml", files)

@@ -1,23 +1,13 @@
-<math>
-    <mrow>
-        <msup>
-            <mi>
-                p
-            </mi>
-            <mn>
-                2
-            </mn>
-        </msup>
-        <mo>
-            =
-        </mo>
-        <msup>
-            <mi>
-                x
-            </mi>
-            <mn>
-                2
-            </mn>
-        </msup>
-    </mrow>
-</math>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+          <mrow>
+            <msup>
+              <mi>A</mi>
+              <mn>2</mn>
+            </msup>
+            <mo>+</mo>
+            <msup>
+              <mi>B</mi>
+              <mn>2</mn>
+            </msup>
+          </mrow>
+  </math>
