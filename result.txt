@@ -1,0 +1,38 @@
+Target File: target_1.xml
+('candidate/madelynnTests/candidate_1.xml', 0.7333333333333334)
+('candidate/madelynnTests/candidate_5.xml', 0.6095238095238096)
+('candidate/madelynnTests/candidate_9.xml', 0.5857142857142856)
+('candidate/madelynnTests/candidate_7.xml', 0.5380952380952381)
+('candidate/madelynnTests/candidate_2.xml', 0.5260869565217392)
+('candidate/madelynnTests/candidate_10.xml', 0.5083333333333333)
+('candidate/madelynnTests/candidate_3.xml', 0.4380952380952381)
+('candidate/madelynnTests/candidate_6.xml', 0.4083333333333333)
+('candidate/madelynnTests/candidate_4.xml', 0.3739130434782609)
+('candidate/madelynnTests/candidate_8.xml', 0.3666666666666667)
+
+Target File: target_2.xml
+['candidate/madelynnTests/candidate_2.xml', 0.8333333333333333]
+('candidate/madelynnTests/candidate_1.xml', 0.8809523809523809)
+('candidate/madelynnTests/candidate_9.xml', 0.8333333333333333)
+('candidate/madelynnTests/candidate_2.xml', 0.8333333333333333)
+('candidate/madelynnTests/candidate_3.xml', 0.825)
+('candidate/madelynnTests/candidate_7.xml', 0.7857142857142857)
+('candidate/madelynnTests/candidate_6.xml', 0.7826086956521738)
+('candidate/madelynnTests/candidate_4.xml', 0.75)
+('candidate/madelynnTests/candidate_8.xml', 0.6644736842105263)
+('candidate/madelynnTests/candidate_5.xml', 0.345)
+('candidate/madelynnTests/candidate_10.xml', 0.3173076923076923)
+
+Target File: target_3.xml
+['candidate/madelynnTests/candidate_9.xml', 0.8333333333333333]
+('candidate/madelynnTests/candidate_9.xml', 0.8333333333333333)
+('candidate/madelynnTests/candidate_5.xml', 0.7380952380952381)
+('candidate/madelynnTests/candidate_3.xml', 0.5701754385964912)
+('candidate/madelynnTests/candidate_1.xml', 0.5606060606060606)
+('candidate/madelynnTests/candidate_10.xml', 0.5378787878787878)
+('candidate/madelynnTests/candidate_7.xml', 0.5333333333333333)
+('candidate/madelynnTests/candidate_2.xml', 0.3958333333333333)
+('candidate/madelynnTests/candidate_6.xml', 0.3405797101449275)
+('candidate/madelynnTests/candidate_8.xml', 0.32456140350877194)
+('candidate/madelynnTests/candidate_4.xml', 0.303030303030303)
+

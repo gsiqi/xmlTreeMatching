@@ -1,0 +1,25 @@
+<!--target 6-->
+<!--𝑒𝑖𝑥=cos𝑥+𝑖sin𝑥 -->
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow>
+      <msup>
+        <mi>e</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi>
+          <mi>x</mi>
+        </mrow>
+      </msup>
+      <mo>=</mo>
+      <mi>cos</mi>
+      <mo>&#x2061;<!-- ⁡ --></mo>
+      <mi>x</mi>
+      <mo>+</mo>
+      <mi>i</mi>
+      <mi>sin</mi>
+      <mo>&#x2061;<!-- ⁡ --></mo>
+      <mi>x</mi>
+    </mrow>
+    <annotation encoding="application/x-tex">e^{ix}=\cos x+i\sin x</annotation>
+  </semantics>
+</math>

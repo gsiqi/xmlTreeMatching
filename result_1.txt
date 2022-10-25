@@ -1,0 +1,48 @@
+Target File: target_3.xml
+('candidate/madelynnTests/candidate_9.xml', [1.0, 0.6666666666666666])
+('candidate/madelynnTests/candidate_5.xml', [1.0, 0.47619047619047616])
+('candidate/madelynnTests/candidate_3.xml', [0.6666666666666666, 0.47368421052631576])
+('candidate/madelynnTests/candidate_1.xml', [0.6666666666666666, 0.45454545454545453])
+('candidate/madelynnTests/candidate_10.xml', [0.6666666666666666, 0.4090909090909091])
+('candidate/madelynnTests/candidate_7.xml', [0.6666666666666666, 0.4])
+('candidate/madelynnTests/candidate_2.xml', [0.3333333333333333, 0.4583333333333333])
+('candidate/madelynnTests/candidate_6.xml', [0.3333333333333333, 0.34782608695652173])
+('candidate/madelynnTests/candidate_8.xml', [0.3333333333333333, 0.3157894736842105])
+('candidate/madelynnTests/candidate_4.xml', [0.3333333333333333, 0.2727272727272727])
+
+Target File: target_1.xml
+('candidate/madelynnTests/candidate_1.xml', [0.8, 0.6666666666666666])
+('candidate/madelynnTests/candidate_5.xml', [0.6, 0.6190476190476191])
+('candidate/madelynnTests/candidate_9.xml', [0.6, 0.5714285714285714])
+('candidate/madelynnTests/candidate_7.xml', [0.6, 0.47619047619047616])
+('candidate/madelynnTests/candidate_2.xml', [0.4, 0.6521739130434783])
+('candidate/madelynnTests/candidate_10.xml', [0.6, 0.4166666666666667])
+('candidate/madelynnTests/candidate_3.xml', [0.4, 0.47619047619047616])
+('candidate/madelynnTests/candidate_6.xml', [0.4, 0.4166666666666667])
+('candidate/madelynnTests/candidate_4.xml', [0.4, 0.34782608695652173])
+('candidate/madelynnTests/candidate_8.xml', [0.4, 0.3333333333333333])
+
+Target File: target_2.xml
+('candidate/madelynnTests/candidate_2.xml', [1.0, 0.6666666666666666])
+('candidate/madelynnTests/candidate_1.xml', [1.0, 0.7619047619047619])
+('candidate/madelynnTests/candidate_9.xml', [1.0, 0.6666666666666666])
+('candidate/madelynnTests/candidate_3.xml', [1.0, 0.65])
+('candidate/madelynnTests/candidate_7.xml', [1.0, 0.5714285714285714])
+('candidate/madelynnTests/candidate_6.xml', [1.0, 0.5652173913043478])
+('candidate/madelynnTests/candidate_4.xml', [1.0, 0.5])
+('candidate/madelynnTests/candidate_8.xml', [0.75, 0.5789473684210527])
+('candidate/madelynnTests/candidate_5.xml', [0.25, 0.44])
+('candidate/madelynnTests/candidate_10.xml', [0.25, 0.38461538461538464])
+
+Target File: target_2.xml
+('candidate/madelynnTests/candidate_8.xml', [0.75, 0.5789473684210527])
+
+Target File: target_2.xml
+('candidate/madelynnTests/candidate_8.xml', [0.75, 0.5789473684210527])
+
+Target File: target_2.xml
+('candidate/madelynnTests/candidate_8.xml', [0.75, 0.5789473684210527])
+
+Target File: target_2.xml
+('candidate/madelynnTests/candidate_8.xml', [0.75, 0.5789473684210527])
+

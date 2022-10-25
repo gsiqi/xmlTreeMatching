@@ -1,0 +1,21 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mstyle displaystyle="true" scriptlevel="0">
+    <mrow class="MJX-TeXAtom-ORD">
+      <munderover>
+        <mo>&#x2211;<!-- ∑ --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi>
+          <mo>=</mo>
+          <mn>1</mn>
+        </mrow>
+        <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+      </munderover>
+      <mi>n</mi>
+      <msup>
+        <mi>a</mi>
+        <mi>n</mi>
+      </msup>
+    </mrow>
+  </mstyle>
+</math>
+<!--\displaystyle{\sum_{n=1}^\infty na^n}-->

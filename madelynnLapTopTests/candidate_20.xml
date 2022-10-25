@@ -1,0 +1,98 @@
+<!-- target 6-->
+<!--f(x)  ⇒   eix  =  f(x)+f(−x)2+f(x)−f(−x)2=  cos(x) + isin(x)-->
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <semantics>
+    <mtable columnalign="right left right left right left right left right left right left" rowspacing="0.8em 0.3em" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true">
+      <mtr>
+        <mtd>
+          <mi mathvariant="normal">f</mi>
+          <mo stretchy="false">(</mo>
+          <mi mathvariant="normal">x</mi>
+          <mo stretchy="false">)</mo>
+          <mtext>&#xA0;</mtext>
+          <mtext>&#xA0;</mtext>
+        </mtd>
+        <mtd>
+          <mi></mi>
+          <mo>=</mo>
+          <mtext>&#xA0;</mtext>
+          <mtext>&#xA0;</mtext>
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">f</mi>
+              <mo stretchy="false">(</mo>
+              <mi mathvariant="normal">x</mi>
+              <mo stretchy="false">)</mo>
+              <mo>+</mo>
+              <mi mathvariant="normal">f</mi>
+              <mo stretchy="false">(</mo>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi mathvariant="normal">x</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+          <mspace width="thickmathspace" />
+          <mo>+</mo>
+          <mspace width="thickmathspace" />
+          <mfrac>
+            <mrow>
+              <mi mathvariant="normal">f</mi>
+              <mo stretchy="false">(</mo>
+              <mi mathvariant="normal">x</mi>
+              <mo stretchy="false">)</mo>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi mathvariant="normal">f</mi>
+              <mo stretchy="false">(</mo>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi mathvariant="normal">x</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mn>2</mn>
+          </mfrac>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mo stretchy="false">&#x21D2;<!-- ⇒ --></mo>
+          <mtext>&#xA0;</mtext>
+          <mtext>&#xA0;</mtext>
+          <mtext>&#xA0;</mtext>
+          <msup>
+            <mi mathvariant="normal">e</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi mathvariant="normal">i</mi>
+              <mi mathvariant="normal">x</mi>
+            </mrow>
+          </msup>
+          <mtext>&#xA0;</mtext>
+          <mtext>&#xA0;</mtext>
+        </mtd>
+        <mtd>
+          <mi></mi>
+          <mo>=</mo>
+          <mtext>&#xA0;</mtext>
+          <mtext>&#xA0;</mtext>
+          <mi>cos</mi>
+          <mo>&#x2061;<!-- ⁡ --></mo>
+          <mo stretchy="false">(</mo>
+          <mi mathvariant="normal">x</mi>
+          <mo stretchy="false">)</mo>
+          <mtext>&#xA0;</mtext>
+          <mo>+</mo>
+          <mtext>&#xA0;</mtext>
+          <mi mathvariant="normal">i</mi>
+          <mspace width="mediummathspace" />
+          <mi>sin</mi>
+          <mo>&#x2061;<!-- ⁡ --></mo>
+          <mo stretchy="false">(</mo>
+          <mi mathvariant="normal">x</mi>
+          <mo stretchy="false">)</mo>
+        </mtd>
+      </mtr>
+    </mtable>
+    <annotation encoding="application/x-tex">\begin{align}
+\rm f(x) \ \ &amp;=\ \ \rm\frac{f(x)+f(-x)}{2} \;+\; \frac{f(x)-f(-x)}{2} \\[.5em]
+\Rightarrow\ \ \ \rm e^{ix} \ \ &amp;=\ \ \rm\cos(x) \ +\ i \:\sin(x)  \end{align}</annotation>
+  </semantics>
+</math>

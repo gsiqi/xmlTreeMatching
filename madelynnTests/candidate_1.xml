@@ -1,31 +1,80 @@
-<mrow>
-  <mo>&#8747;</mo>
-  <mrow>
-   <msqrt>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mi>f</mi>
+  <mo stretchy="false">(</mo>
+  <mi>z</mi>
+  <mo stretchy="false">)</mo>
+  <mo>=</mo>
+  <mfrac>
+    <mn>1</mn>
+    <mi>z</mi>
+  </mfrac>
+  <mfrac>
+    <mn>1</mn>
     <mrow>
-     <mi>a</mi>
-     <mo>+</mo>
-     <mrow>
-      <mi>b</mi>
-      <mo>&#8290;</mo>
-      <mrow>
-       <mi>cos</mi>
-       <mo>&#8289;</mo>
-       <mo>(</mo>
-       <mrow>
-        <mi>c</mi>
-        <mo>&#8290;</mo>
-        <mi>x</mi>
-       </mrow>
-       <mo>)</mo>
-      </mrow>
-     </mrow>
+      <mi>z</mi>
+      <mo>&#x2212;<!-- − --></mo>
+      <mn>1</mn>
     </mrow>
-   </msqrt>
-   <mo>&#8290;</mo>
-   <mrow>
-    <mo>&#8518;</mo>
-    <mi>x</mi>
-   </mrow>
+  </mfrac>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mo>&#x2212;<!-- − --></mo>
+      <mn>1</mn>
+    </mrow>
+    <mi>z</mi>
+  </mfrac>
+  <mfrac>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#x2212;<!-- − --></mo>
+      <mi>z</mi>
+    </mrow>
+    <mo>=</mo>
+  </mfrac>
+  <mfrac>
+    <mrow>
+      <mo>&#x2212;<!-- − --></mo>
+      <mn>1</mn>
+    </mrow>
+    <mi>z</mi>
+  </mfrac>
+  <munderover>
+    <mo>&#x2211;<!-- ∑ --></mo>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>n</mi>
+      <mo>=</mo>
+      <mn>0</mn>
+    </mrow>
+    <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+  </munderover>
+  <msup>
+    <mi>z</mi>
+    <mi>n</mi>
+  </msup>
+  <mo>=</mo>
+  <mo>&#x2212;<!-- − --></mo>
+  <mrow>
+    <mo>(</mo>
+    <mfrac>
+      <mn>1</mn>
+      <mi>z</mi>
+    </mfrac>
+    <mo>+</mo>
+    <munderover>
+      <mo>&#x2211;<!-- ∑ --></mo>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mi>n</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mrow>
+      <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+    </munderover>
+    <msup>
+      <mi>z</mi>
+      <mi>n</mi>
+    </msup>
+    <mo>)</mo>
   </mrow>
- </mrow>
+</math>
+<!--f(z) = \frac{1}{z}\frac{1}{z - 1} = \frac{-1}{z}\frac{1 - z} = \frac{-1}{z}\sum_{n=0}^\infty z^n = -\left(\frac{1}{z} + \sum_{n=0}^\infty z^n\right)-->

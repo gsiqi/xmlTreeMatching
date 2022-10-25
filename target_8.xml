@@ -1,0 +1,28 @@
+<!--https://math.stackexchange.com/questions/28476/finding-the-limit-of-frac-n-sqrtnn-->
+<!--lim𝑛→∞𝑛𝑛!‾‾√𝑛-->
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <semantics>
+    <mrow>
+      <munder>
+        <mo movablelimits="true" form="prefix">lim</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi>
+          <mo stretchy="false">&#x2192;<!-- → --></mo>
+          <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+        </mrow>
+      </munder>
+      <mfrac>
+        <mi>n</mi>
+        <mroot>
+          <mrow>
+            <mi>n</mi>
+            <mo>!</mo>
+          </mrow>
+          <mi>n</mi>
+        </mroot>
+      </mfrac>
+      <mo>.</mo>
+    </mrow>
+    <annotation encoding="application/x-tex">\lim_{n\to\infty}\frac{n}{\sqrt[n]{n!}} .</annotation>
+  </semantics>
+</math>

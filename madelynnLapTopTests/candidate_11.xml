@@ -1,0 +1,51 @@
+<!--target 4-->
+<!--fn:= an−1 = an−m(am−1)+an−m−1-->
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mspace width="mediummathspace" />
+  <mtext>&#xA0;</mtext>
+  <mrow class="MJX-TeXAtom-ORD">
+    <msub>
+      <mi mathvariant="normal">f</mi>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mspace width="thinmathspace" />
+        <mi mathvariant="normal">n</mi>
+      </mrow>
+    </msub>
+    <mspace width="negativethinmathspace" />
+    <mo>=</mo>
+    <mstyle mathcolor="#0a0">
+      <msub>
+        <mi mathvariant="normal">f</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mspace width="thinmathspace" />
+          <mi mathvariant="normal">n</mi>
+          <mo>&#x2212;<!-- − --></mo>
+          <mi mathvariant="normal">m</mi>
+        </mrow>
+      </msub>
+    </mstyle>
+    <mspace width="negativethinmathspace" />
+    <mo>+</mo>
+    <mi mathvariant="normal">k</mi>
+    <mtext>&#xA0;</mtext>
+    <mstyle mathcolor="#c00">
+      <msub>
+        <mi mathvariant="normal">f</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mspace width="thinmathspace" />
+          <mi mathvariant="normal">m</mi>
+        </mrow>
+      </msub>
+    </mstyle>
+  </mrow>
+  <mo>,</mo>
+  <mspace width="thinmathspace" />
+  <mtext>&#xA0;</mtext>
+  <mi mathvariant="normal">k</mi>
+  <mo>&#x2208;<!-- ∈ --></mo>
+  <mrow class="MJX-TeXAtom-ORD">
+    <mi mathvariant="double-struck">Z</mi>
+  </mrow>
+  <mo>,</mo>
+  <mspace width="mediummathspace" />
+</math>
