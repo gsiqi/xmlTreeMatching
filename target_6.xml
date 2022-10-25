@@ -1,0 +1,29 @@
+<!--https://math.stackexchange.com/questions/3510/how-to-prove-eulers-formula-ei-varphi-cos-varphi-i-sin-varphi-->
+<!--𝑒𝑖𝜑=cos(𝜑)+𝑖sin(𝜑)-->
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow>
+      <msup>
+        <mi>e</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi>
+          <mi>&#x03C6;<!-- φ --></mi>
+        </mrow>
+      </msup>
+      <mo>=</mo>
+      <mi>cos</mi>
+      <mo>&#x2061;<!-- ⁡ --></mo>
+      <mo stretchy="false">(</mo>
+      <mi>&#x03C6;<!-- φ --></mi>
+      <mo stretchy="false">)</mo>
+      <mo>+</mo>
+      <mi>i</mi>
+      <mi>sin</mi>
+      <mo>&#x2061;<!-- ⁡ --></mo>
+      <mo stretchy="false">(</mo>
+      <mi>&#x03C6;<!-- φ --></mi>
+      <mo stretchy="false">)</mo>
+    </mrow>
+    <annotation encoding="application/x-tex">e^{i\varphi}=\cos(\varphi) +i\sin(\varphi)</annotation>
+  </semantics>
+</math>

@@ -1,3 +1,0 @@
-<apply><ln/>
-  <ci> a </ci>
-</apply>

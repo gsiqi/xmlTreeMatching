@@ -1,0 +1,29 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>f</mi>
+  <mo stretchy="false">(</mo>
+  <mi>z</mi>
+  <mo stretchy="false">)</mo>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mn>1</mn>
+      <mo>&#x2212;<!-- − --></mo>
+      <mn>2</mn>
+      <mi>z</mi>
+    </mrow>
+    <mrow>
+      <mo stretchy="false">(</mo>
+      <msup>
+        <mi>z</mi>
+        <mn>2</mn>
+      </msup>
+      <mo>&#x2212;<!-- − --></mo>
+      <mi>z</mi>
+      <msup>
+        <mo stretchy="false">)</mo>
+        <mn>2</mn>
+      </msup>
+    </mrow>
+  </mfrac>
+</math>
+<!--f(z) = \frac{1 - 2z}{(z^2 - z)^2}-->

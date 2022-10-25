@@ -1,0 +1,39 @@
+<!-- target 5-->
+<!--𝑓(𝑥)=𝑐+𝑥‾‾‾‾‾√=𝑥⟺𝑥2−𝑥−𝑐=0,𝑥>0-->
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <semantics>
+    <mrow>
+      <mi>f</mi>
+      <mo stretchy="false">(</mo>
+      <mi>x</mi>
+      <mo stretchy="false">)</mo>
+      <mo>=</mo>
+      <msqrt>
+        <mi>c</mi>
+        <mo>+</mo>
+        <mi>x</mi>
+      </msqrt>
+      <mo>=</mo>
+      <mi>x</mi>
+      <mspace width="thickmathspace" />
+      <mo stretchy="false">&#x27FA;<!-- ⟺ --></mo>
+      <mspace width="thickmathspace" />
+      <msup>
+        <mi>x</mi>
+        <mn>2</mn>
+      </msup>
+      <mo>&#x2212;<!-- − --></mo>
+      <mi>x</mi>
+      <mo>&#x2212;<!-- − --></mo>
+      <mi>c</mi>
+      <mo>=</mo>
+      <mn>0</mn>
+      <mo>,</mo>
+      <mspace width="1em" />
+      <mi>x</mi>
+      <mo>&gt;</mo>
+      <mn>0</mn>
+    </mrow>
+    <annotation encoding="application/x-tex">f(x)=\sqrt{c+x}=x\iff x^2-x-c=0,\quad x&gt;0</annotation>
+  </semantics>
+</math>

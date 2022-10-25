@@ -1,0 +1,30 @@
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <msubsup>
+    <mi>S</mi>
+    <mi>m</mi>
+    <mi>k</mi>
+  </msubsup>
+  <mo stretchy="false">(</mo>
+  <mi>r</mi>
+  <mo stretchy="false">)</mo>
+  <mo>=</mo>
+  <munderover>
+    <mo>&#x2211;<!-- ∑ --></mo>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mi>n</mi>
+      <mo>=</mo>
+      <mn>1</mn>
+    </mrow>
+    <mi>m</mi>
+  </munderover>
+  <msup>
+    <mi>n</mi>
+    <mi>k</mi>
+  </msup>
+  <msup>
+    <mi>r</mi>
+    <mi>n</mi>
+  </msup>
+  <mo>.</mo>
+</math>
+<!--S_m^k(r) = \sum_{n=1}^m n^k r^n.-->

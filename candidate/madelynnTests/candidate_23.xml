@@ -1,0 +1,54 @@
+<!--target 8-->
+<!--1𝑅=lim𝑛→∞𝑎𝑛‾‾√𝑛=lim𝑛→∞𝑎𝑛+1𝑎𝑛-->
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mstyle displaystyle="true" scriptlevel="0">
+      <mrow class="MJX-TeXAtom-ORD">
+        <mfrac>
+          <mn>1</mn>
+          <mi>R</mi>
+        </mfrac>
+        <mo>=</mo>
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+          </mrow>
+        </munder>
+        <mroot>
+          <msub>
+            <mi>a</mi>
+            <mi>n</mi>
+          </msub>
+          <mi>n</mi>
+        </mroot>
+        <mo>=</mo>
+        <munder>
+          <mo movablelimits="true" form="prefix">lim</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+            <mo stretchy="false">&#x2192;<!-- → --></mo>
+            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+          </mrow>
+        </munder>
+        <mfrac>
+          <msub>
+            <mi>a</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>n</mi>
+              <mo>+</mo>
+              <mn>1</mn>
+            </mrow>
+          </msub>
+          <msub>
+            <mi>a</mi>
+            <mi>n</mi>
+          </msub>
+        </mfrac>
+      </mrow>
+    </mstyle>
+    <annotation encoding="application/x-tex">\displaystyle{\frac{1}{R}=\lim_{n\to \infty} \sqrt[n]{a_n}=\lim_{n\to\infty}\frac{a_{n+1}}{a_n}}</annotation>
+  </semantics>
+</math>

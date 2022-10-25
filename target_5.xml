@@ -1,0 +1,26 @@
+<!--https://math.stackexchange.com/questions/115501/limit-of-the-nested-radical-x-n1-sqrtcx-n-->
+<!--x_{n+1} = \sqrt{c+x_n}-->
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <semantics>
+    <mrow>
+      <msub>
+        <mi>x</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi>
+          <mo>+</mo>
+          <mn>1</mn>
+        </mrow>
+      </msub>
+      <mo>=</mo>
+      <msqrt>
+        <mi>c</mi>
+        <mo>+</mo>
+        <msub>
+          <mi>x</mi>
+          <mi>n</mi>
+        </msub>
+      </msqrt>
+    </mrow>
+    <annotation encoding="application/x-tex">x_{n+1} = \sqrt{c+x_n}</annotation>
+  </semantics>
+</math>

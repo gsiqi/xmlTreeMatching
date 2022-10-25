@@ -1,0 +1,50 @@
+<!--https://math.stackexchange.com/questions/439851/evaluate-the-integral-int-frac-pi2-0-frac-sin3x-sin3x-cos3x-->
+<!--∫𝜋20sin3𝑥sin3𝑥+cos3𝑥d𝑥.-->
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <semantics>
+    <mrow>
+      <msubsup>
+        <mo>&#x222B;<!-- ∫ --></mo>
+        <mn>0</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>&#x03C0;<!-- π --></mi>
+            <mn>2</mn>
+          </mfrac>
+        </mrow>
+      </msubsup>
+      <mfrac>
+        <mrow>
+          <msup>
+            <mi>sin</mi>
+            <mn>3</mn>
+          </msup>
+          <mo>&#x2061;<!-- ⁡ --></mo>
+          <mi>x</mi>
+        </mrow>
+        <mrow>
+          <msup>
+            <mi>sin</mi>
+            <mn>3</mn>
+          </msup>
+          <mo>&#x2061;<!-- ⁡ --></mo>
+          <mi>x</mi>
+          <mo>+</mo>
+          <msup>
+            <mi>cos</mi>
+            <mn>3</mn>
+          </msup>
+          <mo>&#x2061;<!-- ⁡ --></mo>
+          <mi>x</mi>
+        </mrow>
+      </mfrac>
+      <mspace width="thinmathspace" />
+      <mrow class="MJX-TeXAtom-ORD">
+        <mi mathvariant="normal">d</mi>
+      </mrow>
+      <mi>x</mi>
+      <mo>.</mo>
+    </mrow>
+    <annotation encoding="application/x-tex">\int^{\frac{\pi}{2}}_0 \frac{\sin^3x}{\sin^3x+\cos^3x}\, \mathrm dx.</annotation>
+  </semantics>
+</math>

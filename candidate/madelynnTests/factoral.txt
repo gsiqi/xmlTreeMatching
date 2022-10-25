@@ -1,3 +1,0 @@
-<apply><factorial/>
-   <ci> n </ci>
-</apply>
