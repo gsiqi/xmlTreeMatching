@@ -261,8 +261,8 @@ if __name__ == "__main__":
     #     print(l)
     newTree = FastTreeMatch()
     files = []
-    #folder = "candidate"
-    folder = "madelynnTests"  # madelynn you cant have folders inside folders
+    folder = "candidate"
+    #folder = "madelynnTests"  # madelynn you cant have folders inside folders
     for f in os.listdir(folder):
         files.append(folder + '/' + f)
     newTree.run("target.xml", files)

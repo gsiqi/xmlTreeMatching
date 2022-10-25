@@ -392,5 +392,5 @@ if __name__ == "__main__":
     # folder = "candidate/madelynnTests"
     # for f in os.listdir(folder):
     #     files.append(folder+'/'+f)
-    files.append("candidate/madelynnTests/candidate_8.xml")
+    files.append("madelynnTests/candidate_8.xml")
     newTree.run("old_target/target_2.xml", files)
