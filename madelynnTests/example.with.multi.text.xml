@@ -1,0 +1,73 @@
+<root>Then, to solve for r, we can isolate our trig functions and use the identity 
+  <math xmlns="http://www.w3.org/1998/Math/MathML">
+    <semantics>
+      <mrow>
+        <msup>
+          <mi>sin</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>+</mo>
+        <msup>
+          <mi>cos</mi>
+          <mn>2</mn>
+        </msup>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$\sin^2 + \cos^2 = 1$</annotation>
+    </semantics>
+  </math> to get to the equation 
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <semantics>
+      <mrow>
+        <mfenced close=")" open="(">
+          <mrow>
+            <mo>-</mo>
+            <msup>
+              <mfrac>
+                <mi>A</mi>
+                <mi>r</mi>
+              </mfrac>
+              <mn>2</mn>
+            </msup>
+          </mrow>
+        </mfenced>
+        <mo>+</mo>
+        <mfenced close=")" open="(">
+          <msup>
+            <mfrac>
+              <mi>B</mi>
+              <mi>r</mi>
+            </mfrac>
+            <mn>2</mn>
+          </msup>
+        </mfenced>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$$(-\frac{A}{r}^2) + (\frac{B}{r}^2) = 1$$</annotation>
+    </semantics>
+  </math>Using algebra to solve for r, we find that 
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <semantics>
+      <mrow>
+        <mi>r</mi>
+        <mo>=</mo>
+        <msqrt>
+          <mrow>
+            <msup>
+              <mi>A</mi>
+              <mn>2</mn>
+            </msup>
+            <mo>+</mo>
+            <msup>
+              <mi>B</mi>
+              <mn>2</mn>
+            </msup>
+          </mrow>
+        </msqrt>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$$r = \sqrt{A^2 + B^2}$$</annotation>
+    </semantics>
+  </math>
+</root>

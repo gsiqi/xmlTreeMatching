@@ -1,0 +1,209 @@
+<!--target 4-->
+<!--mod 𝑑: 𝑎𝑀≡1≡𝑎𝑁i.e.   𝑑 | 𝑎𝑀−1,𝑎𝑁−1⟺⟺ord(𝑎) | 𝑀,𝑁⟺ord(𝑎) | (𝑀,𝑁)⟺𝑎(𝑀,𝑁)≡1 𝑑 | 𝑎(𝑀,𝑁)−1, where(𝑀,𝑁):=gcd(𝑀,𝑁) -->
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mtable columnalign="right center left" rowspacing="0.5em 0.3em" columnspacing="0 thickmathspace" displaystyle="true">
+    <mtr>
+      <mtd>
+        <mtext>&#xA0;</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">m</mi>
+          <mi mathvariant="normal">o</mi>
+          <mi mathvariant="normal">d</mi>
+        </mrow>
+        <mspace width="mediummathspace" />
+        <mtext>&#xA0;</mtext>
+        <mi>d</mi>
+        <mspace width="negativethinmathspace" />
+        <mo>:</mo>
+        <mtext>&#xA0;</mtext>
+        <msup>
+          <mi>a</mi>
+          <mi>M</mi>
+        </msup>
+        <mspace width="negativethinmathspace" />
+        <mo>&#x2261;<!-- ≡ --></mo>
+        <mn>1</mn>
+        <mo>&#x2261;<!-- ≡ --></mo>
+        <msup>
+          <mi>a</mi>
+          <mi>N</mi>
+        </msup>
+      </mtd>
+      <mtd>
+        <mi></mi>
+        <mspace width="negativethinmathspace" />
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">&#x27FA;<!-- ⟺ --></mo>
+        <mspace width="thickmathspace" />
+        <mspace width="negativethinmathspace" />
+      </mtd>
+      <mtd>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">o</mi>
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">d</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo stretchy="false">)</mo>
+        <mtext>&#xA0;</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mtext>&#xA0;</mtext>
+        <mi>M</mi>
+        <mo>,</mo>
+        <mi>N</mi>
+        <mspace width="negativethinmathspace" />
+        <mstyle mathcolor="#c00">
+          <mspace width="thickmathspace" />
+          <mo stretchy="false">&#x27FA;<!-- ⟺ --></mo>
+          <mspace width="thickmathspace" />
+        </mstyle>
+        <mspace width="negativethinmathspace" />
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">o</mi>
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">d</mi>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <mi>a</mi>
+        <mo stretchy="false">)</mo>
+        <mtext>&#xA0;</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mtext>&#xA0;</mtext>
+        <mo stretchy="false">(</mo>
+        <mi>M</mi>
+        <mo>,</mo>
+        <mi>N</mi>
+        <mo stretchy="false">)</mo>
+        <mspace width="negativethinmathspace" />
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">&#x27FA;<!-- ⟺ --></mo>
+        <mspace width="thickmathspace" />
+        <mspace width="negativethinmathspace" />
+        <mstyle mathcolor="#0a0">
+          <msup>
+            <mi>a</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo stretchy="false">(</mo>
+              <mi>M</mi>
+              <mo>,</mo>
+              <mi>N</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </msup>
+          <mspace width="negativethinmathspace" />
+          <mo>&#x2261;<!-- ≡ --></mo>
+          <mn>1</mn>
+        </mstyle>
+      </mtd>
+    </mtr>
+    <mtr>
+      <mtd>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">i</mi>
+          <mo>.</mo>
+          <mi mathvariant="normal">e</mi>
+          <mo>.</mo>
+        </mrow>
+        <mtext>&#xA0;</mtext>
+        <mtext>&#xA0;</mtext>
+        <mtext>&#xA0;</mtext>
+        <mi>d</mi>
+        <mtext>&#xA0;</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mtext>&#xA0;</mtext>
+        <msup>
+          <mi>a</mi>
+          <mi>M</mi>
+        </msup>
+        <mspace width="negativethinmathspace" />
+        <mo>&#x2212;<!-- − --></mo>
+        <mspace width="negativethinmathspace" />
+        <mn>1</mn>
+        <mo>,</mo>
+        <mspace width="mediummathspace" />
+        <msup>
+          <mi>a</mi>
+          <mi>N</mi>
+        </msup>
+        <mspace width="negativethinmathspace" />
+        <mo>&#x2212;<!-- − --></mo>
+        <mspace width="negativethinmathspace" />
+        <mn>1</mn>
+        <mspace width="negativethinmathspace" />
+      </mtd>
+      <mtd>
+        <mi></mi>
+        <mspace width="negativethinmathspace" />
+        <mspace width="thickmathspace" />
+        <mo stretchy="false">&#x27FA;<!-- ⟺ --></mo>
+        <mspace width="thickmathspace" />
+        <mspace width="negativethinmathspace" />
+        <mspace width="negativethinmathspace" />
+      </mtd>
+      <mtd>
+        <mtext>&#xA0;</mtext>
+        <mi>d</mi>
+        <mtext>&#xA0;</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mtext>&#xA0;</mtext>
+        <mstyle mathcolor="#0a0">
+          <msup>
+            <mi>a</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mo stretchy="false">(</mo>
+              <mi>M</mi>
+              <mo>,</mo>
+              <mi>N</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </msup>
+          <mspace width="negativethinmathspace" />
+          <mo>&#x2212;<!-- − --></mo>
+          <mspace width="negativethinmathspace" />
+          <mn>1</mn>
+        </mstyle>
+        <mo>,</mo>
+        <mspace width="2em" />
+        <mspace width="thinmathspace" />
+        <mtext>&#xA0;</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="normal">w</mi>
+          <mi mathvariant="normal">h</mi>
+          <mi mathvariant="normal">e</mi>
+          <mi mathvariant="normal">r</mi>
+          <mi mathvariant="normal">e</mi>
+        </mrow>
+        <mspace width="1em" />
+        <mspace width="negativethinmathspace" />
+        <mo stretchy="false">(</mo>
+        <mi>M</mi>
+        <mo>,</mo>
+        <mi>N</mi>
+        <mo stretchy="false">)</mo>
+        <mspace width="thinmathspace" />
+        <mo>:=</mo>
+        <mspace width="thinmathspace" />
+        <mo movablelimits="true" form="prefix">gcd</mo>
+        <mo stretchy="false">(</mo>
+        <mi>M</mi>
+        <mo>,</mo>
+        <mi>N</mi>
+        <mo stretchy="false">)</mo>
+      </mtd>
+    </mtr>
+  </mtable>
+  <mtext>&#xA0;</mtext>
+  <mtext>&#xA0;</mtext>
+  <mtext>&#xA0;</mtext>
+  <mtext>&#xA0;</mtext>
+  <mtext>&#xA0;</mtext>
+</math>

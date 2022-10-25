@@ -1,0 +1,103 @@
+<!--target 6-->
+<!--(1+(𝑥/𝑛)2)𝑛/2=((1+𝑥2/𝑛2)𝑛2)1/2𝑛≃(exp(𝑥2))1/2𝑛→1-->
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <semantics>
+    <mrow>
+      <msup>
+        <mrow>
+          <mo>(</mo>
+          <mn>1</mn>
+          <mo>+</mo>
+          <mo stretchy="false">(</mo>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>/</mo>
+          </mrow>
+          <mi>n</mi>
+          <msup>
+            <mo stretchy="false">)</mo>
+            <mn>2</mn>
+          </msup>
+          <mo>)</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>/</mo>
+          </mrow>
+          <mn>2</mn>
+        </mrow>
+      </msup>
+      <mo>=</mo>
+      <msup>
+        <mrow>
+          <mo>(</mo>
+          <msup>
+            <mrow>
+              <mo>(</mo>
+              <mn>1</mn>
+              <mo>+</mo>
+              <msup>
+                <mi>x</mi>
+                <mn>2</mn>
+              </msup>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mo>/</mo>
+              </mrow>
+              <msup>
+                <mi>n</mi>
+                <mn>2</mn>
+              </msup>
+              <mo>)</mo>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <msup>
+                <mi>n</mi>
+                <mn>2</mn>
+              </msup>
+            </mrow>
+          </msup>
+          <mo>)</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mn>1</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>/</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+            <mi>n</mi>
+          </mrow>
+        </mrow>
+      </msup>
+      <mo>&#x2243;<!-- ≃ --></mo>
+      <msup>
+        <mrow>
+          <mo>(</mo>
+          <mi>exp</mi>
+          <mo>&#x2061;<!-- ⁡ --></mo>
+          <mo stretchy="false">(</mo>
+          <msup>
+            <mi>x</mi>
+            <mn>2</mn>
+          </msup>
+          <mo stretchy="false">)</mo>
+          <mo>)</mo>
+        </mrow>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mn>1</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>/</mo>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>2</mn>
+            <mi>n</mi>
+          </mrow>
+        </mrow>
+      </msup>
+      <mo stretchy="false">&#x2192;<!-- → --></mo>
+      <mn>1</mn>
+    </mrow>
+    <annotation encoding="application/x-tex">\left( 1 + (x/n)^2 \right) ^{n/2} = \left( \left( 1 + x^2 / n^2 \right) ^ {n^2} \right) ^ {1/{2n}} \simeq \left( \exp ( x^2 ) \right) ^ {1/{2n}} \to 1</annotation>
+  </semantics>
+</math>
