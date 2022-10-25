@@ -1,0 +1,527 @@
+<root>
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <semantics>
+      <mrow>
+        <msup>
+          <mi>e</mi>
+          <mrow>
+            <mi>x</mi>
+            <mo>+</mo>
+            <mi>y</mi>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <msup>
+          <mi>e</mi>
+          <mi>x</mi>
+        </msup>
+        <msup>
+          <mi>e</mi>
+          <mi>y</mi>
+        </msup>
+        <mrow>
+          <mrow>
+            <mi>f</mi>
+            <mi>o</mi>
+            <mi>r</mi>
+            <mi>a</mi>
+            <mi>l</mi>
+            <mi>l</mi>
+          </mrow>
+        </mrow>
+        <mi>x</mi>
+        <mo>,</mo>
+        <mi>y</mi>
+        <mo>&in;</mo>
+        <mi mathvariant="double-struck">R</mi>
+        <mo>,</mo>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$${\displaystyle e^{x+y}=e^{x}e^{y}{\text{ for all }}x,y\in \mathbb {R} ,}$$</annotation>
+    </semantics>
+  </math>
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <semantics>
+      <mrow>
+        <mrow>
+          <mfrac>
+            <mi>d</mi>
+            <mrow>
+              <mi>d</mi>
+              <mi>x</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <msup>
+          <mi>b</mi>
+          <mi>x</mi>
+        </msup>
+        <mi> </mi>
+        <mrow>
+          <mover>
+            <mo>=</mo>
+            <mrow>
+              <mi>d</mi>
+              <mi>e</mi>
+              <mi>f</mi>
+            </mrow>
+          </mover>
+        </mrow>
+        <mi> </mi>
+        <mrow>
+          <mfrac>
+            <mi>d</mi>
+            <mrow>
+              <mi>d</mi>
+              <mi>x</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <msup>
+          <mi>e</mi>
+          <mrow>
+            <mi>x</mi>
+            <mi>ln</mi>
+            <mfenced close=")" open="(">
+              <mi>b</mi>
+            </mfenced>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <msup>
+          <mi>e</mi>
+          <mrow>
+            <mi>x</mi>
+            <mi>ln</mi>
+            <mfenced close=")" open="(">
+              <mi>b</mi>
+            </mfenced>
+          </mrow>
+        </msup>
+        <mi>ln</mi>
+        <mfenced close=")" open="(">
+          <mi>b</mi>
+        </mfenced>
+        <mo>=</mo>
+        <msup>
+          <mi>b</mi>
+          <mi>x</mi>
+        </msup>
+        <mi>ln</mi>
+        <mfenced close=")" open="(">
+          <mi>b</mi>
+        </mfenced>
+        <mi>.</mi>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$${\displaystyle {\frac {d}{dx}}b^{x}\ {\stackrel {\text{def}}{=}}\ {\frac {d}{dx}}e^{x\ln(b)}=e^{x\ln(b)}\ln(b)=b^{x}\ln(b).}$$</annotation>
+    </semantics>
+  </math>
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <semantics>
+      <mrow>
+        <mi>a</mi>
+        <msup>
+          <mi>b</mi>
+          <mrow>
+            <mi>c</mi>
+            <mi>x</mi>
+            <mo>+</mo>
+            <mi>d</mi>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mfenced close=")" open="(">
+          <mrow>
+            <mi>a</mi>
+            <msup>
+              <mi>b</mi>
+              <mi>d</mi>
+            </msup>
+          </mrow>
+        </mfenced>
+        <msup>
+          <mfenced close=")" open="(">
+            <msup>
+              <mi>b</mi>
+              <mi>c</mi>
+            </msup>
+          </mfenced>
+          <mi>x</mi>
+        </msup>
+        <mi>.</mi>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$${\displaystyle ab^{cx+d}=\left(ab^{d}\right)\left(b^{c}\right)^{x}.}$$</annotation>
+    </semantics>
+  </math>
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <semantics>
+      <mrow>
+        <mi>x</mi>
+        <mo>=</mo>
+        <msubsup>
+          <mo>&Integral;</mo>
+          <mn>1</mn>
+          <mi>y</mi>
+        </msubsup>
+        <mrow>
+          <mfrac>
+            <mn>1</mn>
+            <mi>t</mi>
+          </mfrac>
+        </mrow>
+        <mspace width="0.167em"></mspace>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mi>.</mi>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$${\displaystyle x=\int _{1}^{y}{\frac {1}{t}}\,dt.}$$</annotation>
+    </semantics>
+  </math>
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <semantics>
+      <mrow>
+        <msubsup>
+          <mo>&Integral;</mo>
+          <mn>0</mn>
+          <msub>
+            <mi>t</mi>
+            <mn>0</mn>
+          </msub>
+        </msubsup>
+        <mo>|</mo>
+        <msup>
+          <mi>&gamma;</mi>
+          <mi>'</mi>
+        </msup>
+        <mfenced close=")" open="(">
+          <mi>t</mi>
+        </mfenced>
+        <mo>|</mo>
+        <mspace width="0.167em"></mspace>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo>=</mo>
+        <msubsup>
+          <mo>&Integral;</mo>
+          <mn>0</mn>
+          <msub>
+            <mi>t</mi>
+            <mn>0</mn>
+          </msub>
+        </msubsup>
+        <mo>|</mo>
+        <mi>i</mi>
+        <mi>exp</mi>
+        <mfenced close=")" open="(">
+          <mrow>
+            <mi>i</mi>
+            <mi>t</mi>
+          </mrow>
+        </mfenced>
+        <mo>|</mo>
+        <mspace width="0.167em"></mspace>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>t</mi>
+          <mn>0</mn>
+        </msub>
+        <mo>,</mo>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$${\displaystyle \int _{0}^{t_{0}}|\gamma '(t)|\,dt=\int _{0}^{t_{0}}|i\exp(it)|\,dt=t_{0},}$$</annotation>
+    </semantics>
+  </math>
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <semantics>
+      <mrow>
+        <msup>
+          <mi>a</mi>
+          <mi>b</mi>
+        </msup>
+        <mo>=</mo>
+        <msup>
+          <mfenced close=")" open="(">
+            <mrow>
+              <mi>r</mi>
+              <msup>
+                <mi>e</mi>
+                <mrow>
+                  <mi>&theta;</mi>
+                  <mi>i</mi>
+                </mrow>
+              </msup>
+            </mrow>
+          </mfenced>
+          <mi>b</mi>
+        </msup>
+        <mo>=</mo>
+        <msup>
+          <mfenced close=")" open="(">
+            <msup>
+              <mi>e</mi>
+              <mrow>
+                <mfenced close=")" open="(">
+                  <mrow>
+                    <mi>ln</mi>
+                    <mi>r</mi>
+                  </mrow>
+                </mfenced>
+                <mo>+</mo>
+                <mi>&theta;</mi>
+                <mi>i</mi>
+              </mrow>
+            </msup>
+          </mfenced>
+          <mi>b</mi>
+        </msup>
+        <mo>=</mo>
+        <msup>
+          <mi>e</mi>
+          <mrow>
+            <mfenced close=")" open="(">
+              <mrow>
+                <mfenced close=")" open="(">
+                  <mrow>
+                    <mi>ln</mi>
+                    <mi>r</mi>
+                  </mrow>
+                </mfenced>
+                <mo>+</mo>
+                <mi>&theta;</mi>
+                <mi>i</mi>
+              </mrow>
+            </mfenced>
+            <mi>b</mi>
+          </mrow>
+        </msup>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$${\displaystyle a^{b}=\left(re^{\theta i}\right)^{b}=\left(e^{(\ln r)+\theta i}\right)^{b}=e^{\left((\ln r)+\theta i\right)b}}$$</annotation>
+    </semantics>
+  </math>
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <semantics>
+      <mrow>
+        <mi>w</mi>
+        <mo>=</mo>
+        <msup>
+          <mi>z</mi>
+          <mrow>
+            <mn>1</mn>
+            <mo>/</mo>
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mrow>
+          <msqrt>
+            <mi>r</mi>
+          </msqrt>
+        </mrow>
+        <mspace width="0.167em"></mspace>
+        <msup>
+          <mi>e</mi>
+          <mrow>
+            <mi>i</mi>
+            <mi>&theta;</mi>
+            <mo>/</mo>
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mspace width="2em"></mspace>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$${\displaystyle w=z^{1/2}={\sqrt {r}}\,e^{i\theta /2}\qquad}$$</annotation>
+    </semantics>
+  </math>
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <semantics>
+      <mrow>
+        <mi>z</mi>
+        <mo>=</mo>
+        <mi>r</mi>
+        <msup>
+          <mi>e</mi>
+          <mrow>
+            <mi>i</mi>
+            <mi>&theta;</mi>
+          </mrow>
+        </msup>
+        <mspace width="1em"></mspace>
+        <mrow>
+          <mrow>
+            <mi>a</mi>
+            <mi>n</mi>
+            <mi>d</mi>
+            <mi>t</mi>
+            <mi>a</mi>
+            <mi>k</mi>
+            <mi>e</mi>
+          </mrow>
+        </mrow>
+        <mspace width="1em"></mspace>
+        <mi>w</mi>
+        <mo>=</mo>
+        <msup>
+          <mi>z</mi>
+          <mrow>
+            <mn>1</mn>
+            <mo>/</mo>
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mo>=</mo>
+        <mrow>
+          <msqrt>
+            <mi>r</mi>
+          </msqrt>
+        </mrow>
+        <mspace width="0.167em"></mspace>
+        <msup>
+          <mi>e</mi>
+          <mrow>
+            <mi>i</mi>
+            <mi>&theta;</mi>
+            <mo>/</mo>
+            <mn>2</mn>
+          </mrow>
+        </msup>
+        <mspace width="2em"></mspace>
+        <mfenced close=")" open="(">
+          <mrow>
+            <mn>0</mn>
+            <mo>&leq;</mo>
+            <mi>&theta;</mi>
+            <mo>&leq;</mo>
+            <mn>2</mn>
+            <mi>&pi;</mi>
+          </mrow>
+        </mfenced>
+        <mi>.</mi>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$${\displaystyle z=re^{i\theta }\quad {\text{and take}}\quad w=z^{1/2}={\sqrt {r}}\,e^{i\theta /2}\qquad (0\leq \theta \leq
+        2\pi ).}$$
+      </annotation>
+    </semantics>
+  </math>
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <semantics>
+      <mrow>
+        <mi>&Gamma;</mi>
+        <mfenced close=")" open="(">
+          <mi>z</mi>
+        </mfenced>
+        <mo>=</mo>
+        <mrow>
+          <mfrac>
+            <msup>
+              <mi>e</mi>
+              <mrow>
+                <mo>-</mo>
+                <mi>&gamma;</mi>
+                <mi>z</mi>
+              </mrow>
+            </msup>
+            <mi>z</mi>
+          </mfrac>
+        </mrow>
+        <munderover>
+          <mo>&Product;</mo>
+          <mrow>
+            <mi>n</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>&infin;</mi>
+        </munderover>
+        <mfenced close="]" open="[">
+          <mrow>
+            <msup>
+              <mfenced close=")" open="(">
+                <mrow>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mrow>
+                    <mfrac>
+                      <mi>z</mi>
+                      <mi>n</mi>
+                    </mfrac>
+                  </mrow>
+                </mrow>
+              </mfenced>
+              <mn>-1</mn>
+            </msup>
+            <msup>
+              <mi>e</mi>
+              <mrow>
+                <mi>z</mi>
+                <mo>/</mo>
+                <mi>n</mi>
+              </mrow>
+            </msup>
+          </mrow>
+        </mfenced>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$${\displaystyle \Gamma (z)={\frac {e^{-\gamma z}}{z}}\prod _{n=1}^{\infty }\left[\left(1+{\frac {z}{n}}\right)^{-1}e^{z/n}\right]}$$</annotation>
+    </semantics>
+  </math>
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+    <semantics>
+      <mrow>
+        <mi>&Gamma;</mi>
+        <mfenced close=")" open="(">
+          <mi>z</mi>
+        </mfenced>
+        <mo>=</mo>
+        <mrow>
+          <mfrac>
+            <msup>
+              <mi>e</mi>
+              <mrow>
+                <mo>-</mo>
+                <mi>&gamma;</mi>
+                <mi>z</mi>
+              </mrow>
+            </msup>
+            <mi>z</mi>
+          </mfrac>
+        </mrow>
+        <munderover>
+          <mo>&Sum;</mo>
+          <mrow>
+            <mi>n</mi>
+            <mo>=</mo>
+            <mn>1</mn>
+          </mrow>
+          <mi>&infin;</mi>
+        </munderover>
+        <mfenced close="]" open="[">
+          <mrow>
+            <msup>
+              <mfenced close=")" open="(">
+                <mrow>
+                  <mn>1</mn>
+                  <mo>+</mo>
+                  <mrow>
+                    <mfrac>
+                      <mi>z</mi>
+                      <mi>n</mi>
+                    </mfrac>
+                  </mrow>
+                </mrow>
+              </mfenced>
+              <mn>-1</mn>
+            </msup>
+            <msup>
+              <mi>e</mi>
+              <mrow>
+                <mi>z</mi>
+                <mo>/</mo>
+                <mi>n</mi>
+              </mrow>
+            </msup>
+          </mrow>
+        </mfenced>
+      </mrow>
+      <annotation encoding="SnuggleTeX">$${\displaystyle \Gamma (z)={\frac {e^{-\gamma z}}{z}}\sum _{n=1}^{\infty }\left[\left(1+{\frac {z}{n}}\right)^{-1}e^{z/n}\right]}$$</annotation>
+    </semantics>
+  </math>
+</root>
